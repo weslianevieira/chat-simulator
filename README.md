@@ -7,7 +7,7 @@
   O framework escolhido para criação do layout foi o Chakra UI .
 
 ---------
-Proposta do bootcamp Labenu para criação de um projeto de chat:
+Proposta do bootcamp Labenu para criação de um protótipo de chat:
 
 " O cliente de hoje está tentando fazer uma utopia (vocês vão reparar que isto é muito comum no mercado): criar um aplicativo de troca de mensagens para bater de frente com os gigantes que existem atualmente, tais como WhatsApp, Telegram, Messenger e muitos outros.<br/> Começaremos implementando as features (funcionalidades) que indiquem o objetivo principal do produto do nosso cliente.<br/> Desta forma, não há a necessidade de se desenvolver um sistema que envie e receba mensagens de fora - criaremos algo que simplesmente mostra novas mensagens."
 
